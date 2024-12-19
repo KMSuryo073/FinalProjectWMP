@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">finalexam1</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Don\'thave an account? Sign up</string>
+
+</resources>
